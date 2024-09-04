@@ -1,7 +1,7 @@
 # World-Energy-Consumption-by-Different-Countries
 
 - Project Title: World Energy Consumption by Different Countries
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 ## Data Insights
